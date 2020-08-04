@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/stepin104981/github-upload.git
+git add .
+git commit -m "initialising repository"
+git push -u origin master
